@@ -1,5 +1,3 @@
-201720977_박연우
-
 <프로젝트 제목 > 
     Solar System (inferior planet)
 
